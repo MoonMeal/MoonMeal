@@ -1,6 +1,6 @@
 [Under construction]
 
-Yecheol Moon, PhD student 2021 ~ 
+Yecheol Moon, PhD student 2021 ~
 mycm1302@hanyang.ac.kr
 
 Robot Design Engineering Laboratory
